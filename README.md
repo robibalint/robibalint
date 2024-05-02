@@ -1,5 +1,5 @@
 
-<h1 align="center">Robert Balint <img src="https://komarev.com/ghpvc/?username=balintrobert" alt="balintrobert" /></h1>
+<h1 align="center">Robert Balint <img src="https://komarev.com/ghpvc/?username=robibalint" alt="balintrobert" /></h1>
 <h3 align="center">Frontend Developer</h3>
 <br/>
 <br/>

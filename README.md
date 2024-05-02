@@ -22,5 +22,5 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40px"/> Stats</h2>
 
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=balintrobert&show_icons=true" alt="balintrobert" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balintrobert&layout=compact&hide=html" alt="balintrobert" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=robibalint&show_icons=true" alt="robibalint" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=robibalint&layout=compact&hide=html" alt="robibalint" /></p>

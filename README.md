@@ -22,5 +22,5 @@
 
 <h2><img src="https://media.giphy.com/media/cj87CxfRtrUifF3Ryk/giphy.gif" width="40px"/> Stats</h2>
 
-![Robi's GitHub stats](https://github-readme-stats-robi-balint.vercel.app/api?username=robibalint&show_icons=true&theme=darcula)
-![Top Langs](https://github-readme-stats-robi-balint.vercel.app/api/top-langs/?username=robibalint&hide_progress=true)</p>
+![Robi's GitHub stats](https://github-readme-stats-delta-opal-80.vercel.app/api?username=robibalint&show_icons=true&theme=darcula)
+![Top Langs](https://github-readme-stats-delta-opal-80.vercel.app/api/top-langs/?username=robibalint&hide_progress=true)</p>
